@@ -13,9 +13,9 @@ import NavBar from "~/components/NavBar/NavBar.vue";
 </script>
 
 <!-- When you comment out the style tag, the issue disappears. -->
-<!--<style>
+<style>
 html,
 body {
   min-height: 100%;
 }
-</style>-->
+</style>
